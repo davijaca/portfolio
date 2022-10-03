@@ -1071,7 +1071,6 @@ section {
 
 @media screen and (max-width: 531px) {
   .mit-container { flex-flow: column; padding: 0px; }
-  .carousel-item { height: 24rem; }
   .d-block { height: 24rem; object-fit: cover; }
 }
 
