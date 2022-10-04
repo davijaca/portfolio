@@ -2,10 +2,10 @@
 <br />
 <div align="center">
 
-  <h3 align="center">BRINKS Sales Showcase</h3>
+  <h3 align="center">Portfolio Page</h3>
 
   <p align="center">
-    Welcome to my Personal Brinks Sales page project!
+    Welcome to my Portfolio Page project!
     <br />
     <br />
   </p>
@@ -17,12 +17,9 @@
 ## About
 
 
-This is a single page html sales page I have made for myself to help me showcase to some of my perspective customers the value of the BRINKS Home Security services.
+This is a html application I have made for myself to help me showcase the projects and exercises done with the MIT xPro course on my portfolio.
 
-I have styled it similarly to the main BRINKS website using Bootstrap.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+I have used bootstrap for the carousel component.
 
 
 ### Built With
